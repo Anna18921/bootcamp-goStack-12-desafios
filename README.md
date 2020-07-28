@@ -5,4 +5,4 @@
 
 <h4>Desafio 01</h4>
 
-1. [Desafio](../../Desafio-01) Done :heavy_check_mark:
+1. [Desafio](https://github.com/Anna18921/bootcamp-goStack-12-desafios/tree/master/Desafio-01/assets) Done :heavy_check_mark:
